@@ -1,0 +1,32 @@
+[
+    {   
+        "fname": "Josh",
+        "lname": "Joseph",
+        "age": 27
+    },
+    {
+        "fname": "Bob",
+        "lname": "Robinson",
+        "age": 22
+    },
+    {
+        "fname": "Will",
+        "lname": "Oldford",
+        "age": 18
+    },
+    {
+        "fname": "Jeff",
+        "lname": "Jefferson",
+        "age": 32
+    },
+    {
+        "fname": "John",
+        "lname": "Doe",
+        "age": 68
+    },
+    {
+        "fname": "Shelly",
+        "lname": "Musk",
+        "age": 44       
+    }
+  ]
